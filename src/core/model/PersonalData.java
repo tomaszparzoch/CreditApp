@@ -1,22 +1,25 @@
-package core;
+package core.model;
 
-public class Person {
+public class PersonalData {
     private String name;
     private String lastName;
     private String mothersMaidenName;
     private double totalMonthlyIncomeInPln;
-    private boolean married;
+    private MaritialStatus maritialStatus;
+    private Education education;
     private int numOfFamilyDependants;
 
-    public Person(String name, String lastName, String mothersMaidenName, double totalMonthlyIncomeInPln,
-                  boolean married, int numOfFamilyDependants) {
+    public PersonalData(String name, String lastName, String mothersMaidenName, double totalMonthlyIncomeInPln,
+                        MaritialStatus maritialStatus, Education education, int numOfFamilyDependants) {
         this.name = name;
         this.lastName = lastName;
         this.mothersMaidenName = mothersMaidenName;
         this.totalMonthlyIncomeInPln = totalMonthlyIncomeInPln;
-        this.married = married;
+        this.maritialStatus = maritialStatus;
+        this.education = education;
         this.numOfFamilyDependants = numOfFamilyDependants;
     }
+
 
     public String getName() {
         return name;
@@ -50,12 +53,20 @@ public class Person {
         this.totalMonthlyIncomeInPln = totalMonthlyIncomeInPln;
     }
 
-    public boolean isMarried() {
-        return married;
+    public MaritialStatus getMaritialStatus() {
+        return maritialStatus;
     }
 
-    public void setMarried(boolean married) {
-        this.married = married;
+    public void setMaritialStatus(MaritialStatus maritialStatus) {
+        this.maritialStatus = maritialStatus;
+    }
+
+    public Education getEducation() {
+        return education;
+    }
+
+    public void setEducation(Education education) {
+        this.education = education;
     }
 
     public int getNumOfFamilyDependants() {

@@ -1,6 +1,7 @@
 import client.ConsoleReader;
 import core.CreditApplicationService;
-import core.Person;
+import core.model.Person;
+
 
 public class Main {
     public static void main(String[] args) {
@@ -10,7 +11,7 @@ public class Main {
         CreditApplicationService creditApplicationService = new CreditApplicationService();
         System.out.println(creditApplicationService.getDecision(person));
 
-        System.out.println("Hello, " + person.getName() + " " + person.getLastName() + "!");
+
 
 
     }
