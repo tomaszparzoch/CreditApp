@@ -14,9 +14,15 @@ public class ConsoleReader {
         String lastName = sc.next();
         System.out.println("Enter your mother's maiden name:");
         String mothersMaidenName = sc.next();
+        System.out.println("Enter total monthly income in PLN:");
+        double totalMonthlyIncomeInPln = sc.nextDouble();
+        System.out.println("Are you married:");
+        boolean married = sc.nextBoolean();
+        System.out.println("Enter number of family dependants (including applicant):");
+        int numOfFamilyDependants = sc.nextInt();
 
         sc.close();
-        return new Person(name, lastName, mothersMaidenName);
+        return new Person(name, lastName, mothersMaidenName, totalMonthlyIncomeInPln, married, numOfFamilyDependants);
     }
 
 }
