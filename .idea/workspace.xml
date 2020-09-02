@@ -3,9 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="b1a56312-2c9b-4a2d-8b6e-f269e26d9591" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/creditapp/core/CreditApplicationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/creditapp/core/CreditApplicationService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/creditapp/core/PersonScoringCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/creditapp/core/PersonScoringCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/creditapp/core/model/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/creditapp/core/model/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/creditapp/core/model/PurposeOfLoan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/creditapp/core/model/PurposeOfLoan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/client/ConsoleReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/ConsoleReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/core/CreditApplicationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/CreditApplicationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/PersonScoringCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/PersonScoringCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/core/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/core/model/PurposeOfLoan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/core/model/PurposeOfLoan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../digg" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -72,6 +79,7 @@
       <updated>1598466006401</updated>
       <workItem from="1598466011060" duration="1972000" />
       <workItem from="1598896932849" duration="6442000" />
+      <workItem from="1599075305183" duration="8508000" />
     </task>
     <servers />
   </component>
@@ -87,11 +95,11 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="51" y="46" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738/1366.-312.1920.1080@0.0.1366.738" timestamp="1598875399693" />
-    <state x="524" y="104" key="#com.intellij.ide.util.MemberChooser" timestamp="1598961047084">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="645" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1599075594268">
+      <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state x="524" y="104" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738/1366.-312.1920.1080@0.0.1366.738" timestamp="1598961047084" />
-    <state x="645" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1598904502389" />
+    <state x="645" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1599075594268" />
     <state x="479" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1598900696616">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
@@ -100,51 +108,80 @@
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state x="620" y="268" key="FileChooserDialogImpl/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1598466156920" />
-    <state width="1322" height="177" key="GridCell.Tab.0.bottom" timestamp="1598961752678">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1637" height="340" key="GridCell.Tab.0.bottom" timestamp="1599086010682">
+      <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state width="1322" height="177" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.-312.1920.1080@0.0.1366.738" timestamp="1598961752678" />
-    <state width="1637" height="275" key="GridCell.Tab.0.bottom/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1598905083574" />
-    <state width="1322" height="177" key="GridCell.Tab.0.center" timestamp="1598961752677">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1637" height="340" key="GridCell.Tab.0.bottom/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1599086010682" />
+    <state width="1637" height="340" key="GridCell.Tab.0.center" timestamp="1599086010682">
+      <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state width="1322" height="177" key="GridCell.Tab.0.center/0.0.1366.738/1366.-312.1920.1080@0.0.1366.738" timestamp="1598961752677" />
-    <state width="1637" height="275" key="GridCell.Tab.0.center/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1598905083574" />
-    <state width="1322" height="177" key="GridCell.Tab.0.left" timestamp="1598961752675">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1637" height="340" key="GridCell.Tab.0.center/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1599086010682" />
+    <state width="1637" height="340" key="GridCell.Tab.0.left" timestamp="1599086010682">
+      <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state width="1322" height="177" key="GridCell.Tab.0.left/0.0.1366.738/1366.-312.1920.1080@0.0.1366.738" timestamp="1598961752675" />
-    <state width="1637" height="275" key="GridCell.Tab.0.left/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1598905083572" />
-    <state width="1322" height="177" key="GridCell.Tab.0.right" timestamp="1598961752677">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1637" height="340" key="GridCell.Tab.0.left/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1599086010682" />
+    <state width="1637" height="340" key="GridCell.Tab.0.right" timestamp="1599086010682">
+      <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state width="1322" height="177" key="GridCell.Tab.0.right/0.0.1366.738/1366.-312.1920.1080@0.0.1366.738" timestamp="1598961752677" />
-    <state width="1637" height="275" key="GridCell.Tab.0.right/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1598905083574" />
-    <state width="1322" height="221" key="GridCell.Tab.1.bottom" timestamp="1598882176996">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1637" height="340" key="GridCell.Tab.0.right/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1599086010682" />
+    <state width="1637" height="340" key="GridCell.Tab.1.bottom" timestamp="1599086010683">
+      <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state width="1322" height="221" key="GridCell.Tab.1.bottom/0.0.1366.738/1366.-312.1920.1080@0.0.1366.738" timestamp="1598882176996" />
-    <state width="1322" height="221" key="GridCell.Tab.1.center" timestamp="1598882176996">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1637" height="340" key="GridCell.Tab.1.bottom/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1599086010683" />
+    <state width="1637" height="340" key="GridCell.Tab.1.center" timestamp="1599086010683">
+      <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state width="1322" height="221" key="GridCell.Tab.1.center/0.0.1366.738/1366.-312.1920.1080@0.0.1366.738" timestamp="1598882176996" />
-    <state width="1322" height="221" key="GridCell.Tab.1.left" timestamp="1598882176995">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1637" height="340" key="GridCell.Tab.1.center/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1599086010683" />
+    <state width="1637" height="340" key="GridCell.Tab.1.left" timestamp="1599086010683">
+      <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state width="1322" height="221" key="GridCell.Tab.1.left/0.0.1366.738/1366.-312.1920.1080@0.0.1366.738" timestamp="1598882176995" />
-    <state width="1322" height="221" key="GridCell.Tab.1.right" timestamp="1598882176996">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1637" height="340" key="GridCell.Tab.1.left/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1599086010683" />
+    <state width="1637" height="340" key="GridCell.Tab.1.right" timestamp="1599086010683">
+      <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state width="1322" height="221" key="GridCell.Tab.1.right/0.0.1366.738/1366.-312.1920.1080@0.0.1366.738" timestamp="1598882176996" />
+    <state width="1637" height="340" key="GridCell.Tab.1.right/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1599086010683" />
     <state x="378" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1598960654116">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="378" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.738/1366.-312.1920.1080@0.0.1366.738" timestamp="1598960654116" />
     <state x="465" y="264" key="com.intellij.ide.util.TipDialog/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1598904894394" />
+    <state x="395" y="249" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599085101830">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="395" y="249" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1599085101830" />
     <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1598877245123">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/1366.-312.1920.1080@0.0.1366.738" timestamp="1598877245123" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/core/PersonScoringCalculator.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/core/PersonScoringCalculator.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/core/PersonScoringCalculator.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CreditApp$Main.ic" NAME="Main Coverage Results" MODIFIED="1598878528421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
