@@ -18,16 +18,19 @@ public class PersonScoringCalculator {
     public double creditRating(LoanAplication loanAplication){
 
         double creditRating =-1;
+        LoanType loanType = loanAplication.getPurposeOfLoan().getLoanType();
 
-        if(loanAplication.getPurposeOfLoan().getLoanType() == LoanType.MORTGAGE){
-            creditRating = Constants.MORTGAGE_LOAN_RATE * monthlyIncomeForFamilyMember(loanAplication.getPerson()) *
-                    12 * loanAplication.getPurposeOfLoan().getPeriod();
+        switch(loanType){
+            case MORTGAGE:
+                creditRating = Constants.MORTGAGE_LOAN_RATE * monthlyIncomeForFamilyMember(loanAplication.getPerson()) *
+                        12 * loanAplication.getPurposeOfLoan().getPeriod();
+                break;
+            case PERSONAL_LOAN:
+                creditRating = Constants.PERSONAL_LOAN_LOAN_RATE * monthlyIncomeForFamilyMember(loanAplication.getPerson()) *
+                        12 * loanAplication.getPurposeOfLoan().getPeriod();
+                break;
         }
-        if(loanAplication.getPurposeOfLoan().getLoanType() == LoanType.PERSONAL_LOAN){
-            creditRating = Constants.PERSONAL_LOAN_LOAN_RATE * monthlyIncomeForFamilyMember(loanAplication.getPerson()) *
-                    12 * loanAplication.getPurposeOfLoan().getPeriod();
 
-        }
         return creditRating;
 
 
