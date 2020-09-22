@@ -1,6 +1,6 @@
 package pl.javaskills.creditapp.client;
 
-import core.model.*;
+import pl.javaskills.creditapp.core.model.*;
 
 import java.util.Scanner;
 

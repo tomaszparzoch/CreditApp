@@ -1,6 +1,6 @@
 package pl.javaskills.creditapp.core;
 
-import core.model.*;
+import pl.javaskills.creditapp.core.model.*;
 
 public class PersonScoringCalculator {
 

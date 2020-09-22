@@ -1,6 +1,6 @@
 package pl.javaskills.creditapp.core;
 
-import core.model.LoanAplication;
+import pl.javaskills.creditapp.core.model.LoanAplication;
 
 public class CreditApplicationService {
 

@@ -2,425 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec459dc0-bfa7-4782-9b37-732f7aa03432" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/AiK-zadanie/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/AiK-zadanie/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/AiK-zadanie/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/AiK-zadanie/AiK-zadanie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/AiK-zadanie/out/production/AiK-zadanie/Adress.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/AiK-zadanie/out/production/AiK-zadanie/Bank.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/AiK-zadanie/out/production/AiK-zadanie/BankAccount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/AiK-zadanie/out/production/AiK-zadanie/Credit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/AiK-zadanie/out/production/AiK-zadanie/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/AiK-zadanie/src/Adress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/AiK-zadanie/src/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/AiK-zadanie/src/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/AiK-zadanie/src/Credit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/AiK-zadanie/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Algorytmika - zadanie/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Algorytmika - zadanie/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Algorytmika - zadanie/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Algorytmika - zadanie/Algorytmika - zadanie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Algorytmika - zadanie/out/production/Algorytmika - zadanie/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Algorytmika - zadanie/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Debugowanie - wprowadzenie/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Debugowanie - wprowadzenie/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Debugowanie - wprowadzenie/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Debugowanie - wprowadzenie/Debugowanie - wprowadzenie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Debugowanie - wprowadzenie/out/production/Debugowanie - wprowadzenie/EvenAdder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Debugowanie - wprowadzenie/src/DebugExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Dziedziczenie - zadanie/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Dziedziczenie - zadanie/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Dziedziczenie - zadanie/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Dziedziczenie - zadanie/Dziedziczenie - zadanie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Dziedziczenie - zadanie/out/production/Dziedziczenie - zadanie/Data/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Dziedziczenie - zadanie/out/production/Dziedziczenie - zadanie/Data/ExhaustPart.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Dziedziczenie - zadanie/out/production/Dziedziczenie - zadanie/Data/Part.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Dziedziczenie - zadanie/out/production/Dziedziczenie - zadanie/Data/Tire.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Dziedziczenie - zadanie/src/Data/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Dziedziczenie - zadanie/src/Data/ExhaustPart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Dziedziczenie - zadanie/src/Data/Part.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Dziedziczenie - zadanie/src/Data/Tire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Enkapsulacja/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Enkapsulacja/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Enkapsulacja/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Enkapsulacja/Enkapsulacja.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Enkapsulacja/out/production/Enkapsulacja/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Enkapsulacja/out/production/Enkapsulacja/DiscountApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Enkapsulacja/out/production/Enkapsulacja/DiscountService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Enkapsulacja/out/production/Enkapsulacja/PrintInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Enkapsulacja/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Enkapsulacja/src/DiscountApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Enkapsulacja/src/DiscountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Enkapsulacja/src/PrintInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Interfejsy/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Interfejsy/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Interfejsy/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Interfejsy/Interfejsy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Interfejsy/out/production/Interfejsy/Cirle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Interfejsy/out/production/Interfejsy/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Interfejsy/out/production/Interfejsy/Shape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Interfejsy/out/production/Interfejsy/ShapeCalculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Interfejsy/out/production/Interfejsy/Triangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Interfejsy/src/Cirle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Interfejsy/src/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Interfejsy/src/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Interfejsy/src/ShapeCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Interfejsy/src/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/JavaBeans - cw1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/JavaBeans - cw1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/JavaBeans - cw1/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/JavaBeans - cw1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/JavaBeans - cw1/JavaBeans - cw1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/JavaBeans - cw1/out/production/JavaBeans - cw1/META-INF/JavaBeans - cw1.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/JavaBeans - cw1/out/production/JavaBeans - cw1/data/Point.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/JavaBeans - cw1/out/production/JavaBeans - cw1/logic/PointController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/JavaBeans - cw1/src/app/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/JavaBeans - cw1/src/data/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/JavaBeans - cw1/src/logic/PointController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/KiO-cw1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/KiO-cw1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/KiO-cw1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/KiO-cw1/KiO-cw1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/KiO-cw1/out/production/KiO-cw1/Company.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/KiO-cw1/out/production/KiO-cw1/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/KiO-cw1/src/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/KiO-cw1/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/Library.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/Library.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/Library.o" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/Library_users.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/META-INF/Library.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/pl/javastart/library/app/LibraryApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/pl/javastart/library/app/LibraryControl$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/pl/javastart/library/app/LibraryControl$Option.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/pl/javastart/library/app/LibraryControl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/pl/javastart/library/exception/DataExportException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/pl/javastart/library/exception/DataImportException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/pl/javastart/library/exception/InvalidDataException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/pl/javastart/library/exception/NoSuchFileTypeException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/pl/javastart/library/exception/NoSuchOptionException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/pl/javastart/library/exception/PublicationsAlreadyExistException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/pl/javastart/library/exception/UserAlreadyExistException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/pl/javastart/library/io/ConsolePrinter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/pl/javastart/library/io/DataReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/pl/javastart/library/io/file/CsvFileManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/pl/javastart/library/io/file/FileManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/pl/javastart/library/io/file/FileManagerBuilder$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/pl/javastart/library/io/file/FileManagerBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/pl/javastart/library/io/file/FileType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/pl/javastart/library/io/file/SerializableFileManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/pl/javastart/library/model/Book.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/pl/javastart/library/model/CsvConvertible.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/pl/javastart/library/model/Library.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/pl/javastart/library/model/LibraryUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/pl/javastart/library/model/Magazine.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/pl/javastart/library/model/Publication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/pl/javastart/library/model/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/pl/javastart/library/model/comparator/AlphabeticalTitleComparator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/out/production/Library/pl/javastart/library/model/comparator/DataComparator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/src/pl/javastart/library/app/LibraryApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/src/pl/javastart/library/app/LibraryControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/src/pl/javastart/library/exception/DataExportException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/src/pl/javastart/library/exception/DataImportException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/src/pl/javastart/library/exception/InvalidDataException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/src/pl/javastart/library/exception/NoSuchFileTypeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/src/pl/javastart/library/exception/NoSuchOptionException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/src/pl/javastart/library/exception/PublicationsAlreadyExistException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/src/pl/javastart/library/exception/UserAlreadyExistException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/src/pl/javastart/library/io/ConsolePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/src/pl/javastart/library/io/DataReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/src/pl/javastart/library/io/file/CsvFileManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/src/pl/javastart/library/io/file/FileManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/src/pl/javastart/library/io/file/FileManagerBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/src/pl/javastart/library/io/file/FileType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/src/pl/javastart/library/io/file/SerializableFileManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/src/pl/javastart/library/model/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/src/pl/javastart/library/model/CsvConvertible.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/src/pl/javastart/library/model/Library.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/src/pl/javastart/library/model/LibraryUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/src/pl/javastart/library/model/Magazine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/src/pl/javastart/library/model/Publication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/src/pl/javastart/library/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/src/pl/javastart/library/model/comparator/AlphabeticalTitleComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Library/src/pl/javastart/library/model/comparator/DataComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Listy-zadanie/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Listy-zadanie/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Listy-zadanie/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Listy-zadanie/Listy-zadanie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Listy-zadanie/out/production/Listy-zadanie/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Listy-zadanie/out/production/Listy-zadanie/Data.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Listy-zadanie/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Listy-zadanie/src/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Mapy - zadanie/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Mapy - zadanie/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Mapy - zadanie/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Mapy - zadanie/Mapy - zadanie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Mapy - zadanie/out/production/Mapy - zadanie/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Mapy - zadanie/out/production/Mapy - zadanie/Company.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Mapy - zadanie/out/production/Mapy - zadanie/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Mapy - zadanie/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Mapy - zadanie/src/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Mapy - zadanie/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Metody - cw1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Metody - cw1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Metody - cw1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Metody - cw1/Metody - cw1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Metody - cw1/out/production/Metody - cw1/Calculate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Metody - cw1/out/production/Metody - cw1/Calculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Metody - cw1/src/Calculate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Metody - cw1/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Metody - cw2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Metody - cw2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Metody - cw2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Metody - cw2/Metody - cw2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Metody - cw2/out/production/Metody - cw2/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Metody - cw2/out/production/Metody - cw2/Distance.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Metody - cw2/out/production/Metody - cw2/Time.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Metody - cw2/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Metody - cw2/src/Distance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Metody - cw2/src/Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pliki - zadanie/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pliki - zadanie/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pliki - zadanie/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pliki - zadanie/Pliki - zadanie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pliki - zadanie/company.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pliki - zadanie/out/production/Pliki - zadanie/Company.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pliki - zadanie/out/production/Pliki - zadanie/CompanyApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pliki - zadanie/out/production/Pliki - zadanie/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pliki - zadanie/out/production/Pliki - zadanie/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pliki - zadanie/src/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pliki - zadanie/src/CompanyApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pliki - zadanie/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pliki - zadanie/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Polimorfizm - zadanie/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Polimorfizm - zadanie/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Polimorfizm - zadanie/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Polimorfizm - zadanie/Polimorfizm - zadanie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Polimorfizm - zadanie/out/production/Polimorfizm - zadanie/Doctor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Polimorfizm - zadanie/out/production/Polimorfizm - zadanie/Hospital.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Polimorfizm - zadanie/out/production/Polimorfizm - zadanie/HospitalApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Polimorfizm - zadanie/out/production/Polimorfizm - zadanie/Nurse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Polimorfizm - zadanie/out/production/Polimorfizm - zadanie/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Polimorfizm - zadanie/src/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Polimorfizm - zadanie/src/Hospital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Polimorfizm - zadanie/src/HospitalApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Polimorfizm - zadanie/src/Nurse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Polimorfizm - zadanie/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pętle - cw2 - szpital/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pętle - cw2 - szpital/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pętle - cw2 - szpital/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pętle - cw2 - szpital/Pętle - cw2 - szpital.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pętle - cw2 - szpital/out/production/Pętle - cw2 - szpital/Hospital.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pętle - cw2 - szpital/out/production/Pętle - cw2 - szpital/HospitalApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pętle - cw2 - szpital/out/production/Pętle - cw2 - szpital/Patient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pętle - cw2 - szpital/src/Hospital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pętle - cw2 - szpital/src/HospitalApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pętle - cw2 - szpital/src/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pętle for/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pętle for/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pętle for/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pętle for/Pętle for.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pętle for/out/production/Pętle for/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Pętle for/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Rekurencja - zadanie/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Rekurencja - zadanie/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Rekurencja - zadanie/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Rekurencja - zadanie/Rekurencja - zadanie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Rekurencja - zadanie/out/production/Rekurencja - zadanie/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Rekurencja - zadanie/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Statyczne - zadanie/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Statyczne - zadanie/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Statyczne - zadanie/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Statyczne - zadanie/Statyczne - zadanie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Statyczne - zadanie/out/production/Statyczne - zadanie/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Statyczne - zadanie/out/production/Statyczne - zadanie/University.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Statyczne - zadanie/src/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Statyczne - zadanie/src/University.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Tablice - zadanie/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Tablice - zadanie/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Tablice - zadanie/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Tablice - zadanie/Tablice - zadanie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Tablice - zadanie/out/production/Tablice - zadanie/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Tablice - zadanie/out/production/Tablice - zadanie/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Tablice - zadanie/out/production/Tablice - zadanie/PersonDatabase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Tablice - zadanie/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Tablice - zadanie/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Tablice - zadanie/src/PersonDatabase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Tablice wielowymiarowe - cw1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Tablice wielowymiarowe - cw1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Tablice wielowymiarowe - cw1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Tablice wielowymiarowe - cw1/Tablice wielowymiarowe - cw1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Tablice wielowymiarowe - cw1/out/production/Tablice wielowymiarowe - cw1/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Tablice wielowymiarowe - cw1/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Wyjatek - zadanie/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Wyjatek - zadanie/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Wyjatek - zadanie/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Wyjatek - zadanie/Wyjatek - zadanie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Wyjatek - zadanie/out/production/Wyjatek - zadanie/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Wyjatek - zadanie/out/production/Wyjatek - zadanie/Arithmetic.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Wyjatek - zadanie/out/production/Wyjatek - zadanie/UnknowOperatorException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Wyjatek - zadanie/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Wyjatek - zadanie/src/Arithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Wyjatek - zadanie/src/UnknowOperatorException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Zadanie_operacje/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Zadanie_operacje/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Zadanie_operacje/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Zadanie_operacje/Zadanie_operacje.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Zadanie_operacje/out/production/Zadanie_operacje/OperacjeZadanie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Zadanie_operacje/src/OperacjeZadanie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Zbiory - zadanie/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Zbiory - zadanie/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Zbiory - zadanie/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Zbiory - zadanie/Zbiory - zadanie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Zbiory - zadanie/namespl.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Zbiory - zadanie/out/production/Zbiory - zadanie/App$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Zbiory - zadanie/out/production/Zbiory - zadanie/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/Zbiory - zadanie/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/comparable/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/comparable/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/comparable/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/comparable/comparable.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/comparable/out/production/comparable/App$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/comparable/out/production/comparable/App$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/comparable/out/production/comparable/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/comparable/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/cw auta/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/cw auta/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/cw auta/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/cw auta/cw auta.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/cw auta/out/production/cw auta/Auta.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/cw auta/src/Auta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/cw2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/cw2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/cw2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/cw2/cw2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/cw2/out/production/cw2/BasicTypes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/cw2/src/BasicTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/datatypes/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/datatypes/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/datatypes/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/datatypes/datatypes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/datatypes/out/production/datatypes/DataTypes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/datatypes/src/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/enum/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/enum/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/enum/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/enum/enum.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/enum/out/production/enum/Pizza.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/enum/out/production/enum/Pizzeria.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/enum/src/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/enum/src/Pizzeria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/equal -zadanie/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/equal -zadanie/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/equal -zadanie/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/equal -zadanie/equal -zadanie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/equal -zadanie/out/production/equal -zadanie/Computer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/equal -zadanie/out/production/equal -zadanie/DataStore.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/equal -zadanie/out/production/equal -zadanie/NotebookShop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/equal -zadanie/src/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/equal -zadanie/src/DataStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/equal -zadanie/src/NotebookShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/operacje/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/operacje/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/operacje/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/operacje/operacje.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/operacje/out/production/operacje/operacje.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/operacje/src/operacje.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/przeciazenie - zadanie/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/przeciazenie - zadanie/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/przeciazenie - zadanie/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/przeciazenie - zadanie/out/production/przeciazenie - zadanie/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/przeciazenie - zadanie/out/production/przeciazenie - zadanie/Calculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/przeciazenie - zadanie/przeciazenie - zadanie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/przeciazenie - zadanie/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/przeciazenie - zadanie/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/string - zadanie/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/string - zadanie/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/string - zadanie/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/string - zadanie/out/production/string - zadanie/StringApp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/string - zadanie/src/StringApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/string - zadanie/string - zadanie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/super - zadanie/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/super - zadanie/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/super - zadanie/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/super - zadanie/out/production/super - zadanie/Apple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/super - zadanie/out/production/super - zadanie/Fruit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/super - zadanie/out/production/super - zadanie/GroceryShop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/super - zadanie/src/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/super - zadanie/src/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/super - zadanie/src/GroceryShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/super - zadanie/super - zadanie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/tablice jednowymiarowe - cw1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/tablice jednowymiarowe - cw1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/tablice jednowymiarowe - cw1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/tablice jednowymiarowe - cw1/out/production/tablice jednowymiarowe - cw1/Adder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/tablice jednowymiarowe - cw1/out/production/tablice jednowymiarowe - cw1/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/tablice jednowymiarowe - cw1/src/Adder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/tablice jednowymiarowe - cw1/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/tablice jednowymiarowe - cw1/tablice jednowymiarowe - cw1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/typy genertyczne - zadanie/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/typy genertyczne - zadanie/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/typy genertyczne - zadanie/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/typy genertyczne - zadanie/out/production/typy genertyczne - zadanie/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/typy genertyczne - zadanie/out/production/typy genertyczne - zadanie/Pair.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/typy genertyczne - zadanie/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/typy genertyczne - zadanie/src/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/typy genertyczne - zadanie/typy genertyczne - zadanie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/typy opakowujace - zadanie/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/typy opakowujace - zadanie/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/typy opakowujace - zadanie/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/typy opakowujace - zadanie/liczby.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/typy opakowujace - zadanie/out/production/typy opakowujace - zadanie/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/typy opakowujace - zadanie/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/typy opakowujace - zadanie/typy opakowujace - zadanie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/untitled/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/untitled/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/untitled/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/untitled/out/production/untitled/HelloWord.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/untitled/src/HelloWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/untitled/untitled.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/wprowadzanie danych - cw1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/wprowadzanie danych - cw1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/wprowadzanie danych - cw1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/wprowadzanie danych - cw1/out/production/wprowadzanie danych - cw1/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/wprowadzanie danych - cw1/out/production/wprowadzanie danych - cw1/Calculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/wprowadzanie danych - cw1/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/wprowadzanie danych - cw1/src/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IdeaProjects/wprowadzanie danych - cw1/wprowadzanie danych - cw1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../klasy wewnetrze - aplikacja sortowanie/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../klasy wewnetrze - aplikacja sortowanie/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../klasy wewnetrze - aplikacja sortowanie/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../klasy wewnetrze - aplikacja sortowanie/klasy wewnetrze - aplikacja sortowanie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../klasy wewnetrze - aplikacja sortowanie/out/production/klasy wewnetrze - aplikacja sortowanie/App$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../klasy wewnetrze - aplikacja sortowanie/out/production/klasy wewnetrze - aplikacja sortowanie/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../klasy wewnetrze - aplikacja sortowanie/out/production/klasy wewnetrze - aplikacja sortowanie/Sortable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../klasy wewnetrze - aplikacja sortowanie/src/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../klasy wewnetrze - aplikacja sortowanie/src/Sortable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kolejki - zadanie/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kolejki - zadanie/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kolejki - zadanie/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kolejki - zadanie/kolejki - zadanie.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kolejki - zadanie/out/production/kolejki - zadanie/Priority.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kolejki - zadanie/out/production/kolejki - zadanie/Task.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kolejki - zadanie/out/production/kolejki - zadanie/TaskManager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kolejki - zadanie/src/Priority.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kolejki - zadanie/src/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kolejki - zadanie/src/TaskManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/javaskills/creditapp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/javaskills/creditapp/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/javaskills/creditapp/client/ConsoleReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/javaskills/creditapp/client/ConsoleReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/javaskills/creditapp/core/CreditApplicationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/javaskills/creditapp/core/CreditApplicationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/javaskills/creditapp/core/PersonScoringCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/javaskills/creditapp/core/PersonScoringCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1hrpBmD9YxHWDY4BJPdQ6PfPr1V" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -428,7 +44,60 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/pl/javaskills/creditapp" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pl.javaskills.creditapp.core" />
+      <recent name="pl.javaskills.creditapp.core.model" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PersonScoringCalculatorTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.javaskills.creditapp.Main" />
+      <module name="creditapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.javaskills.creditapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonScoringCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="creditapp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.javaskills.creditapp.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.javaskills.creditapp.core" />
+      <option name="MAIN_CLASS_NAME" value="pl.javaskills.creditapp.core.PersonScoringCalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PersonScoringCalculatorTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -440,17 +109,63 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600778932092</updated>
+      <workItem from="1600796204899" duration="5159000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="432" y="171" key="#Project_Structure" timestamp="1600796483721">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="432" y="171" key="#Project_Structure/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1600796483721" />
+    <state x="570" y="290" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1600796472687">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="570" y="290" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1600796472687" />
+    <state x="641" y="379" width="398" height="306" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1600796651013">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="641" y="379" width="398" height="306" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1600796651013" />
     <state x="463" y="126" key="FileChooserDialogImpl" timestamp="1600779050301">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="126" key="FileChooserDialogImpl/0.0.1366.738/1366.-312.1920.1080@0.0.1366.738" timestamp="1600779050301" />
-    <state x="390" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1600778937340">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1637" height="275" key="GridCell.Tab.0.bottom" timestamp="1600801676192">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state width="1637" height="275" key="GridCell.Tab.0.bottom/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1600801676192" />
+    <state width="1637" height="275" key="GridCell.Tab.0.center" timestamp="1600801676192">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state width="1637" height="275" key="GridCell.Tab.0.center/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1600801676192" />
+    <state width="1637" height="275" key="GridCell.Tab.0.left" timestamp="1600801676192">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state width="1637" height="275" key="GridCell.Tab.0.left/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1600801676192" />
+    <state width="1637" height="275" key="GridCell.Tab.0.right" timestamp="1600801676192">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state width="1637" height="275" key="GridCell.Tab.0.right/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1600801676192" />
+    <state x="370" y="168" key="Maven.ArtifactSearchDialog" timestamp="1600796704033">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="370" y="168" key="Maven.ArtifactSearchDialog/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1600796704033" />
+    <state x="480" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1600796204950">
+      <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state x="390" y="195" key="com.intellij.ide.util.TipDialog/0.0.1366.738/1366.-312.1920.1080@0.0.1366.738" timestamp="1600778937340" />
+    <state x="480" y="270" key="com.intellij.ide.util.TipDialog/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1600796204950" />
+    <state x="604" y="242" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1600800020632">
+      <screen x="0" y="0" width="1680" height="1020" />
+    </state>
+    <state x="604" y="242" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1600800020632" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/creditapp$PersonScoringCalculatorTest.ic" NAME="PersonScoringCalculatorTest Coverage Results" MODIFIED="1600801676089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pl.javaskills.creditapp.core.*</FILTER>
+    </SUITE>
   </component>
 </project>
