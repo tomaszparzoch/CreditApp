@@ -1,4 +1,4 @@
-package core;
+package pl.javaskills.creditapp.core;
 
 public class Constants {
 

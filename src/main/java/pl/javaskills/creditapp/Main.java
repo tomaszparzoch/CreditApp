@@ -1,7 +1,8 @@
+package pl.javaskills.creditapp;
+
 import client.ConsoleReader;
 import core.CreditApplicationService;
 import core.model.LoanAplication;
-import core.model.Person;
 
 
 public class Main {

@@ -1,4 +1,4 @@
-package core.model;
+package pl.javaskills.creditapp.core.model;
 
 public class Person {
     private PersonalData personalData;

@@ -1,4 +1,4 @@
-package client;
+package pl.javaskills.creditapp.client;
 
 import core.model.*;
 
