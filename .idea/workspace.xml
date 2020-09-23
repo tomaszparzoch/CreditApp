@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec459dc0-bfa7-4782-9b37-732f7aa03432" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/javaskills/creditapp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/javaskills/creditapp/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/javaskills/creditapp/client/ConsoleReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/javaskills/creditapp/client/ConsoleReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/javaskills/creditapp/core/CreditApplicationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/javaskills/creditapp/core/CreditApplicationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/javaskills/creditapp/core/PersonScoringCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/javaskills/creditapp/core/PersonScoringCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/javaskills/creditapp/core/CreditApplicationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/javaskills/creditapp/core/CreditApplicationService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +16,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -63,7 +61,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PersonScoringCalculatorTest">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pl.javaskills.creditapp.Main" />
       <module name="creditapp" />
@@ -94,8 +92,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PersonScoringCalculatorTest" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.PersonScoringCalculatorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +107,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600778932092</updated>
-      <workItem from="1600796204899" duration="5159000" />
+      <workItem from="1600796204899" duration="5161000" />
+      <workItem from="1600887290413" duration="3809000" />
+      <workItem from="1600894397271" duration="481000" />
+      <workItem from="1600895372875" duration="280000" />
     </task>
     <servers />
   </component>
@@ -133,31 +134,31 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="126" key="FileChooserDialogImpl/0.0.1366.738/1366.-312.1920.1080@0.0.1366.738" timestamp="1600779050301" />
-    <state width="1637" height="275" key="GridCell.Tab.0.bottom" timestamp="1600801676192">
+    <state width="1637" height="275" key="GridCell.Tab.0.bottom" timestamp="1600894483186">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1637" height="275" key="GridCell.Tab.0.bottom/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1600801676192" />
-    <state width="1637" height="275" key="GridCell.Tab.0.center" timestamp="1600801676192">
+    <state width="1637" height="275" key="GridCell.Tab.0.bottom/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1600894483186" />
+    <state width="1637" height="275" key="GridCell.Tab.0.center" timestamp="1600894483185">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1637" height="275" key="GridCell.Tab.0.center/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1600801676192" />
-    <state width="1637" height="275" key="GridCell.Tab.0.left" timestamp="1600801676192">
+    <state width="1637" height="275" key="GridCell.Tab.0.center/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1600894483185" />
+    <state width="1637" height="275" key="GridCell.Tab.0.left" timestamp="1600894483185">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1637" height="275" key="GridCell.Tab.0.left/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1600801676192" />
-    <state width="1637" height="275" key="GridCell.Tab.0.right" timestamp="1600801676192">
+    <state width="1637" height="275" key="GridCell.Tab.0.left/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1600894483185" />
+    <state width="1637" height="275" key="GridCell.Tab.0.right" timestamp="1600894483186">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
-    <state width="1637" height="275" key="GridCell.Tab.0.right/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1600801676192" />
+    <state width="1637" height="275" key="GridCell.Tab.0.right/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1600894483186" />
     <state x="370" y="168" key="Maven.ArtifactSearchDialog" timestamp="1600796704033">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state x="370" y="168" key="Maven.ArtifactSearchDialog/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1600796704033" />
-    <state x="480" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1600796204950">
+    <state x="480" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1600895650423">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state x="390" y="195" key="com.intellij.ide.util.TipDialog/0.0.1366.738/1366.-312.1920.1080@0.0.1366.738" timestamp="1600778937340" />
-    <state x="480" y="270" key="com.intellij.ide.util.TipDialog/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1600796204950" />
+    <state x="480" y="270" key="com.intellij.ide.util.TipDialog/0.0.1680.1020/1680.0.1440.870@0.0.1680.1020" timestamp="1600895650423" />
     <state x="604" y="242" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1600800020632">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
