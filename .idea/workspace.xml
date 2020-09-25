@@ -411,10 +411,6 @@
       <change afterPath="$PROJECT_DIR$/../kolejki - zadanie/src/Priority.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../kolejki - zadanie/src/Task.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../kolejki - zadanie/src/TaskManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/javaskills/creditapp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/javaskills/creditapp/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/javaskills/creditapp/core/CreditApplicationDecision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/javaskills/creditapp/core/CreditApplicationDecision.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/javaskills/creditapp/core/CreditApplicationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/javaskills/creditapp/core/CreditApplicationService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
