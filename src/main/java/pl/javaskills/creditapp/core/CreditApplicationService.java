@@ -3,10 +3,13 @@ package pl.javaskills.creditapp.core;
 import pl.javaskills.creditapp.core.model.*;
 
 public class CreditApplicationService {
+    private final PersonScoringCalculator personScoringCalculator;
 
-    public String getDecision(LoanAplication loanAplication){
-        PersonScoringCalculator personScoringCalculator = new PersonScoringCalculator();
-        CreditApplicationDecision creditApplicationDecision = new CreditApplicationDecision();
+    public CreditApplicationService(PersonScoringCalculator personScoringCalculator) {
+        this.personScoringCalculator = personScoringCalculator;
+    }
+
+    public CreditApplicationDecision getDecision(LoanAplication loanAplication){
         int scoring = personScoringCalculator.scoring(loanAplication.getPerson());
         double creditRating = personScoringCalculator.creditRating(loanAplication);
 
@@ -24,7 +27,7 @@ public class CreditApplicationService {
         }
 
 
-        return creditApplicationDecision.decisionGenerator(decisionType, loanAplication, creditRating);
+        return new CreditApplicationDecision(decisionType, loanAplication.getPerson().getPersonalData(), creditRating);
 
     }
 }
